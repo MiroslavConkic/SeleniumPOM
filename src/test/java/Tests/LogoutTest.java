@@ -32,3 +32,10 @@ public class LogoutTest extends BaseTest {
         driver.quit();
     }
 }
+//git status
+//[6:35 PM]git init
+//[6:37 PM]git add .
+//[6:38 PM]git commit -m “Initial commit”
+//[6:40 PM]git remote add origin {ovde ubacite link sa github projekta}
+//[6:40 PM]Taj link mora da se zavrsi sa .git
+//[6:41 PM]git push --set-upstream origin master
